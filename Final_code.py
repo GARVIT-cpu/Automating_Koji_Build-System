@@ -1,6 +1,6 @@
 #COPY RIGHTS
-# AUTHOR-------> GARVIT SHARMA  &&  SATYA PRAKASH   &&  AKSHATA DHAGE  
-# Mail Id------> "garvitsharma2611@gmail.com" | "satyaprk92@gmail.com"  | "akshatadhage979@gmail.com"
+# AUTHOR-------> GARVIT SHARMA 
+# Mail Id------> "garvitsharma2611@gmail.com"
 
 #importing the main event loop
 import tornado.ioloop         
